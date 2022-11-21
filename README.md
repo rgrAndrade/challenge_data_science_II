@@ -1,6 +1,6 @@
 # insightplaces
 
-Rápida descrição do objetivo de fazer esse projeto
+Projeto de Machine Larning com grandes volumes de dados utilizando PySpark, para classificação e modelo de recomendação de Imóveis.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
@@ -9,7 +9,9 @@ Rápida descrição do objetivo de fazer esse projeto
 | :fire: Desafio     |  https://www.alura.com.br/challenges/data-science-2?host=https://cursos.alura.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+
+![insignhtPlaces](https://user-images.githubusercontent.com/104234513/203103126-3dbe6892-5acb-46d0-bef5-e3c10b7c5a5a.png#vitrinedev)
+
 
 ## Detalhes do projeto
 
